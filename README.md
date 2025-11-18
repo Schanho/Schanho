@@ -38,14 +38,6 @@
 
 ---
 
-##  Certifications
-
-| Platform | Date | Course | Title | Certificate |
-|:---:|:---:|:---:|:---:|:---:|
-| — | — | — | — | — |
-
----
-
 ##  Internship / Research
 
 **Internships**
