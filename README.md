@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Profile 
+##  Profile
 
 **Name:** Chanho Song  
 **Nationality:** Republic of Korea  
@@ -10,20 +10,23 @@
 **Major:** Computer Engineering  
 **Lab:** DfX Lab (Design for X), Hanbat National University  
 
-## Interests 
+---
 
-**Computer Vision**  
-**Smart Agriculture**  
-**Robotics & Autonomous Systems**  
-**RGB-D Perception / SLAM / 3D Vision**
+##  Interests
 
-## Resume
+**Computer Vision · Smart Agriculture · Robotics & Autonomous Systems · RGB-D Perception / SLAM / 3D Vision**
+
+---
+
+##  Resume
 
 <a href="https://drive.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume">
 </a>
 
-## Language
+---
+
+##  Skills / Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -33,15 +36,20 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## Certifications 
+---
+
+##  Certifications
 
 | Platform | Date | Course | Title | Certificate |
 |:---:|:---:|:---:|:---:|:---:|
 | — | — | — | — | — |
 
-## Internship / Research
+---
+
+##  Internship / Research
 
 **Internships**
+
 | Date | Company | Topic | Details |
 |:---:|:---:|:---:|:---:|
 | 2023.07 ~ 2024.06 | (주)넥센서 + SK하이닉스 | 반도체 웨이퍼 결함 영역 탐지 | Vision 기반 웨이퍼 결함 자동 판정 알고리즘 개발 |
@@ -50,18 +58,23 @@
 | 2025.05 ~ | ㈜ WhaAI | 깻잎 자동수확 로봇 | 엔드이펙터 개발 + RGB-D 기반 로봇팔 제어 시스템 구축 |
 
 **Industry Collaboration**
+
 | Date | Organizer | Topic | Details |
 |:---:|:---:|:---:|:---:|
 | 2025.07 ~ | 한국농업진흥청 · 농촌진흥청 | 스마트팜 AI 기반 제어 | 딸기 생육 모델링, 환경 예측, 자동 제어 시스템 개발 |
 
-## Teaching Experience
+---
+
+##  Teaching Experience
 
 | Date | Class | Details |
 |:---:|:---:|:---:|
 | 2024 | Digital Circuit Design | Undergraduate TA |
 | 2024 | 3D-Printing | Undergraduate TA |
 
-## Awards and Honors
+---
+
+##  Awards & Honors
 
 | Prize | Platform | Name | Type | Team | Link |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -72,26 +85,34 @@
 | 2nd Place | 2025 스마트농업 AI 경진대회 본선 | Smart Farm AI | CV/AI | DfX Lab | — |
 | Final round (ongoing) | 2025 스마트농업 AI 경진대회 | Smart Farm AI | CV/AI | DfX Lab | — |
 
-## Conference Papers
+---
+
+##  Conference Papers
 
 | Year | Conference | Title | Authors |
 |:---:|:---:|:---:|:---:|
 | 2024 | 대한전자공학회 | *Implementation of Autonomous Driving Function of Delivery Robots in Buildings using SLAM and Elevator-Based Inter-Floor Movement* | Chanho Song, Boseok Lee, Jungsu Yun, Gyung-Ho Hwang, *Hyunbean Yi* |
 
-## Journal Papers (Submitted)
+---
+
+##  Journal Papers (Submitted)
 
 | Year | Journal | Title | Authors | Status |
 |:---:|:---:|:---:|:---:|:---:|
 | 2025 | 한국로봇공학회 논문지 | *Design and Validation of a Vertical Dual-Module End-Effector for Low-Damage Harvesting of Perilla Leaf* | Chanho Song, Hyunbean Yi† | Submitted |
 
-## Patents
+---
+
+##  Patents
 
 | No. | Title | Status |
 |:---:|:---:|:---:|
 | 1 | 스마트팜 깻잎 자동화 수확을 위한 엔드이펙터 | Registration |
 | 2 | 영상 처리 기반 용접선 탐지 및 불량 비드 검출 방법 | Registration |
 
-## Contact  
+---
+
+##  Contact
 📧 **Email:** chanhosong00@gmail.com  
 
 </div>
