@@ -79,6 +79,15 @@
 
 ---
 
+##  Patents
+
+| No. | Title | Status |
+|:---:|:---:|:---:|
+| 1 | 스마트팜 깻잎 자동화 수확을 위한 엔드이펙터 | Registration |
+| 2 | 영상 처리 기반 용접선 탐지 및 불량 비드 검출 방법 | Registration |
+
+---
+
 ##  Conference Papers
 
 | Year | Conference | Title | Authors |
@@ -87,20 +96,11 @@
 
 ---
 
-##  Journal Papers (Submitted)
+##  Journal Papers 
 
 | Year | Journal | Title | Authors | Status |
 |:---:|:---:|:---:|:---:|:---:|
 | 2025 | 한국로봇공학회 논문지 | *Design and Validation of a Vertical Dual-Module End-Effector for Low-Damage Harvesting of Perilla Leaf* | Chanho Song, Hyunbean Yi† | Submitted |
-
----
-
-##  Patents
-
-| No. | Title | Status |
-|:---:|:---:|:---:|
-| 1 | 스마트팜 깻잎 자동화 수확을 위한 엔드이펙터 | Registration |
-| 2 | 영상 처리 기반 용접선 탐지 및 불량 비드 검출 방법 | Registration |
 
 ---
 
