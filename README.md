@@ -77,7 +77,8 @@
 | 2nd Place | 2025 스마트농업 AI 경진대회 해커톤 | Smart Farm AI | CV/AI | DfX Lab | — |
 | 2nd Place | 2025 스마트농업 AI 경진대회 본선 | Smart Farm AI | CV/AI | DfX Lab | — |
 | Final round (ongoing) | 2025 스마트농업 AI 경진대회 | Smart Farm AI | CV/AI | DfX Lab | — |
-| 2nd Place (농촌진흥청장상) | 2025 스마트농업 AI 경진대회 | Smart Farm AI | CV/AI | DfX Lab | [News](https://www.hanbat.ac.kr/bbs/BBSMSTR_000000000053/view.do?nttId=B000000163744Ou4dZ5n&mno=sub07_0402) |
+| 2nd Place 
+(농촌진흥청장상) | 2025 스마트농업 AI 경진대회 | Smart Farm AI | CV/AI | DfX Lab | [News](https://www.hanbat.ac.kr/bbs/BBSMSTR_000000000053/view.do?nttId=B000000163744Ou4dZ5n&mno=sub07_0402) |
 
 ---
 
