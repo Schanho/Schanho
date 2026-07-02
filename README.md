@@ -14,7 +14,7 @@
 
 ##  Interests
 
-**Computer Vision · Smart Agriculture · Robotics & Autonomous Systems · RGB-D Perception / SLAM / 3D Vision**
+**Computer Vision · Smart Agriculture · Robotics & Autonomous Systems · RGB-D Perception / SLAM / End-Effector**
 
 ---
 
