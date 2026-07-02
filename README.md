@@ -40,7 +40,7 @@
 
 ##  Internship / Research
 
-**Internships**
+**Internships & Project**
 
 | Date | Company | Topic | Details |
 |:---:|:---:|:---:|:---:|
