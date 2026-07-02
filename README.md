@@ -72,7 +72,7 @@
 | Prize | Platform | Name | Type | Team | Link |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1st Place | 2024 소중한 AI·SW 경진대회 | AI 기반 자녀 맞춤형 질문 서비스 | AI Service | 대화가필요해 | — |
-| Kakao Award | 2024 SW중심대학 디지털 경진대회 | AI 기반 자녀 맞춤형 질문 서비스 | AI Service | 대화가필요해 | — |
+| Kakao Award | 2024 SW중심대학 디지털 경진대회 | AI 기반 자녀 맞춤형 질문 서비스 | AI Service | 대화가필요해 | [News](https://www.goodmorningcc.com/news/articleView.html?idxno=402520) |
 | Gold Prize | 2024 소중한 오픈소스 활용 SW경진대회 | 실내 자율주행 + 층간이동 배달로봇 | Robotics | TripleWave | — |
 | 2nd Place | 2025 스마트농업 AI 경진대회 해커톤 | Smart Farm AI | CV/AI | DfX Lab | — |
 | 2nd Place | 2025 스마트농업 AI 경진대회 본선 | Smart Farm AI | CV/AI | DfX Lab | — |
