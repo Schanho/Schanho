@@ -46,6 +46,7 @@
 |:---:|:---:|:---:|:---:|
 | 2023.07 ~ 2024.06 | (주)넥센서 + SK하이닉스 | 반도체 웨이퍼 결함 영역 탐지 | Vision 기반 웨이퍼 결함 자동 판정 알고리즘 개발 |
 | 2024.07 ~ 2024.12 | ㈜ Gfarm | 스마트팜 자율주행 로봇 | 돈사 환경 모니터링을 위한 자율주행 로봇 개발 |
+| 2025.02 ~ 2025.06 | 출연연 | 스마트팜 자율주행 로봇 | 딸기 상태 모니터링 및 수확을 위한 자율주행 로봇 개발 |
 | 2025.01 ~  | ㈜ AIPL + 삼성중공업 + KIRO | 용접선 검사 로봇 | 자율주행 로봇 + 로봇팔 기반 용접선 탐지·불량 비드 검출 |
 | 2025.05 ~ | ㈜ WhaAI | 깻잎 자동수확 로봇 | 엔드이펙터 개발 + RGB-D 기반 로봇팔 제어 시스템 구축 |
 
@@ -101,7 +102,7 @@
 | Year | Journal | Title | Authors | Status |
 |:---:|:---:|:---:|:---:|:---:|
 | 2025 | 한국로봇공학회 논문지 | *Design and Validation of a Vertical Dual-Module End-Effector for Low-Damage Harvesting of Perilla Leaf* | Chanho Song, Hyunbean Yi† | Accepted |
-| 2025 | MDPI Agriculture | *Design of a Petiole Tensile-Separation End-Effector with Central Growing Region Protection for Low-Damage Perilla Leaf Harvesting* | Chanho Song, Hyunbean Yi† | Accepted |
+| 2026 | MDPI Agriculture | *Design of a Petiole Tensile-Separation End-Effector with Central Growing Region Protection for Low-Damage Perilla Leaf Harvesting* | Chanho Song, Hyunbean Yi† | Accepted |
 
 ---
 
