@@ -100,7 +100,7 @@
 
 | Year | Journal | Title | Authors | Status |
 |:---:|:---:|:---:|:---:|:---:|
-| 2025 | 한국로봇공학회 논문지 | *Design and Validation of a Vertical Dual-Module End-Effector for Low-Damage Harvesting of Perilla Leaf* | Chanho Song, Hyunbean Yi† | Submitted |
+| 2025 | 한국로봇공학회 논문지 | *Design and Validation of a Vertical Dual-Module End-Effector for Low-Damage Harvesting of Perilla Leaf* | Chanho Song, Hyunbean Yi† | Accepted |
 | 2025 | MDPI Agriculture | *Design of a Petiole Tensile-Separation End-Effector with Central Growing Region Protection for Low-Damage Perilla Leaf Harvesting* | Chanho Song, Hyunbean Yi† | Accepted |
 
 ---
